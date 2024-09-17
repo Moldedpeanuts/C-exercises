@@ -12,7 +12,7 @@ int main (){
     printf("Subtraction:");
     printf("%2d\n",w);
     printf("Multiplication:");
-    printf("%2d\n",w);
+    printf("%2d\n",q);
     printf("Division:");
     printf("%2f\n",b);
 }
