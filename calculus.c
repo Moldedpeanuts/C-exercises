@@ -14,5 +14,5 @@ int main (){
     printf("Multiplication:");
     printf("%2d\n",q);
     printf("Division:");
-    printf("%2f\n",b);
+    printf("%2.2f\n",b);
 }
