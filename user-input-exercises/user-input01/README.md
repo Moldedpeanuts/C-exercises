@@ -1,4 +1,4 @@
-#Basic user input exercise
+# Basic user input exercise
 
 ## Here are the steps used to complete the program:
 
